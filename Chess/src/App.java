@@ -18,6 +18,6 @@ public class App {
         for (String x : players) {
             System.out.println(x);
         }
-
+System.out.println("Trying to commit");
     }
 }
